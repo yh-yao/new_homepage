@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-12-10
 inline: true
 related_posts: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+[FedGCN](https://arxiv.org/abs/2201.12433) and [WyzeRule](https://openreview.net/forum?id=qynH28Y4xE) are accepted by NeurIPS. FedML-HE gets accepted by FL-NeurIPS workshop.
