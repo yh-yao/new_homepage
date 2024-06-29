@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.andrew.cmu.edu/user/yuhangya//sitemap.xml
+Sitemap: https://www.fedgraph.org/yuhangya//sitemap.xml
