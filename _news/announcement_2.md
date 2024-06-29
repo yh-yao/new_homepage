@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join [FEDML AI](https://www.fedml.ai/) as a research scientist intern for generative AI.
+I join [TensorOpera AI](https://www.tensoropera.ai/) as a research scientist for generative AI.
