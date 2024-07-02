@@ -9,4 +9,4 @@ We have released pretrained LLM [Fox-1-1.6B](https://huggingface.co/tensoropera/
 and instruction version [Fox-1-1.6B-Instruct-v0.1](https://huggingface.co/tensoropera/Fox-1-1.6B-Instruct-v0.1). Top-3 among Small Language Models!
 
 \\
-<img src="/assets/img/fox.jpg" alt="Fox-1-1.6B" width="600">
+<img src="/assets/img/fox.jpg" alt="Fox-1-1.6B" width="100%">
