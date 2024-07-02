@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.fedgraph.org/yuhangya//sitemap.xml
+Sitemap: https://yuhangyao.com/sitemap.xml
