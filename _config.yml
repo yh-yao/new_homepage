@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Yuhang Yao | Homepage # the website title (if blank, full name will be used instead)
 first_name: Yuhang
 middle_name:
 last_name: Yao
 email: yuhangyao8@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A homepage for Yuhang Yao
+  The homepage for Yuhang Yao, PhD at Carnegie Mellon University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: homepage, Yuhang Yao # add your own keywords or leave empty
